@@ -27,8 +27,8 @@
   "site": {
     "title": "Blog Hubpress",
     "description": "Instance de test",
-    "logo": "https://i.imgur.com/n97z89g.png",
-    "cover": "https://pre00.deviantart.net/6ecb/th/pre/f/2013/086/3/d/facebook_cover_1_by_alphacid-d5zfrww.jpg",
+    "logo": "https://test.io/wp-content/uploads/2017/02/testIO-logo-rgb.png",
+    "cover": "http://www.jmmnews.com/wp-content/uploads/2015/11/JMM-Banner-1140x410.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",

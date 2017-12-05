@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://laleveille.github.io/hubpress",
+    "hubpress": "https://laleveille.github.io/hubpress",
+    "theme": "//laleveille.github.io/hubpress/themes/casper",
+    "images": "https://laleveille.github.io/hubpress/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }

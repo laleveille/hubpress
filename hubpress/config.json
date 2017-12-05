@@ -27,7 +27,7 @@
   "site": {
     "title": "Blog Hubpress",
     "description": "Instance de test",
-    "logo": "https://test.io/wp-content/uploads/2017/02/testIO-logo-rgb.png",
+    "logo": "",
     "cover": "http://www.jmmnews.com/wp-content/uploads/2015/11/JMM-Banner-1140x410.jpg",
     "delay": "",
     "postsPerPage": "",
